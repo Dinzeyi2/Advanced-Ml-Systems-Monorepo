@@ -1,6 +1,5 @@
 # Advanced ML Systems Monorepo (Obed)
 
-This repo contains **5 production‑grade, advanced/scale projects** designed to meet Big Tech expectations (Google/Meta/DeepMind). Each project is runnable locally and includes hooks for distributed training, tracking, deployment, or privacy.
 
 Projects:
 1) **Multimodal Recommender @ Scale** — image+text retrieval/ranking, ANN serving, DDP training, MLflow tracking, FastAPI inference, Docker + K8s manifests.  
